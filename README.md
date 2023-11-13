@@ -3,8 +3,9 @@
 * PHP 8.2 or later
 * Composer
 * Git
-* Shell
+* Terminal
 * MySQL
+* VSCode / any IDE
 
 ## Installation
 
@@ -15,12 +16,12 @@
 3-Configure the config file (app/config/App.php)
 
 ## Running project
-`php spark serve`
+on terminal: `php spark serve`
 
 ## Admin Dashboard
 To access the admin dashboard (localhost/login)
 
-Username : admin@admin.com
+Username : admin
 
 Password: password
 
@@ -29,4 +30,4 @@ Password: password
 The database is an .sql file in the root folder of the project, just create a database on ur MariaDB and import the file in your database.
 
 ## Tutorial :
-https://ekydiza.notion.site/05610e3f5b054e4bbd25b4342443dbdf?v=dc73786b98f44dee8382c242752daec0&pvs=4 (still develop)
+https://ekydiza.notion.site/05610e3f5b054e4bbd25b4342443dbdf?v=dc73786b98f44dee8382c242752daec0&pvs=4 
