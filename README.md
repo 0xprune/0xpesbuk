@@ -27,4 +27,4 @@ Password: password
 The database is an .sql file in the root folder of the project, just create a database on ur MariaDB and import the file in your database.
 
 ## 📖 Tutorial :
-[CI4 IonAuth Guides](https://ekydiza.notion.site/05610e3f5b054e4bbd25b4342443dbdf?v=dc73786b98f44dee8382c242752daec0&pvs=25) 
+[CI4 IonAuth Guides](https://ekydiza.notion.site/ekydiza/05610e3f5b054e4bbd25b4342443dbdf?v=dc73786b98f44dee8382c242752daec0) 
